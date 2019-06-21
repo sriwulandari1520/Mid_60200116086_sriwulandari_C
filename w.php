@@ -1,6 +1,6 @@
 <?php
 $x ="mid kakas"
- $y="wulan"
+ $y="wulandari"
   echo $y;
 echo $x; 
   ?>
